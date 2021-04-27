@@ -1,5 +1,5 @@
-html.full, html.full > body {
-    height: 100%;
+html, body {
+    min-height: 100%;
 }
 
 body {
@@ -13,5 +13,14 @@ a.logo {
 
 a.logo > img {
     width: 15%;
+    max-width: 75%;
+}
+
+ul {
+    list-style:none;
+    padding-left:0;
+}
+
+li > img {
     max-width: 100%;
 }
