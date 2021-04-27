@@ -26,6 +26,8 @@ li > img {
 }
 
 footer {
+    text-align: center;
     margin: 0 auto;
-    padding: 12px;
+    padding: 24px;
+    color: white;
 }
