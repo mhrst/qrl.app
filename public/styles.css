@@ -24,3 +24,8 @@ ul {
 li > img {
     max-width: 100%;
 }
+
+footer {
+    margin: 0 auto;
+    padding: 12px;
+}
